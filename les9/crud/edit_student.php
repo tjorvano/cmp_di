@@ -60,6 +60,8 @@ if(isset($_GET["edit_id"]) && !empty($_GET["edit_id"])){
 
 <div class="container">
     <div class="row">
+
+	
 		<form role="form" class="col-md-9 go-right" action="edit_student.php" method="post">
 			<h2>Edit Student</h2>
 			<div class="form-group">
